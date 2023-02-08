@@ -1,6 +1,6 @@
 # Git History, Search and More (including _git log_)
 
-* View and search git log along with the graph and details.
+* View and search git log along with the graph and details!
 * View a previous copy of the file.
 * View and search the history
     * View the history of one or all branches (git log)
